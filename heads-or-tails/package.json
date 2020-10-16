@@ -1,6 +1,6 @@
 {
     "name": "@plokidesigns/heads-or-tails",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "Returns a heads or tails to emulate flipping a coin",
     "main": "index.js",
     "keywords": [
@@ -10,5 +10,9 @@
         "npm",
         "package",
         "plokidesigns"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/parvathysjsu/npm-packages.git"        
+      }
 }

@@ -1,0 +1,14 @@
+{
+    "name": "@plokidesigns/heads-or-tails",
+    "version": "1.0.3",
+    "description": "Returns a heads or tails to emulate flipping a coin",
+    "main": "index.js",
+    "keywords": [
+        "heads",
+        "tails",
+        "coin",
+        "npm",
+        "package",
+        "plokidesigns"
+    ]
+}
